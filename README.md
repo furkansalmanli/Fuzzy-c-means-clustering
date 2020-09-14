@@ -1,3 +1,3 @@
-kmeans-fuzzy-cmeans
+Fuzzy-c-means-clustering
 ===================
-Visualization of k-Means and Fuzzy c-Means clustering algorithms. Source language is C#, Oxyplot library used for graphic drawing.
+C# ve Oxyplot kütüphanesi ile yapılmış Fuzzy C-means sınıflandırma algoritması örneği
